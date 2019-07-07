@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "title": "Projektowanie stron i aplikacji internetowych",
+    "content": "Witam oferuję szeroki zakres usług, od prostych stron typu wizytówka, stron firmowych po indywidualne rozwiązania dopasowane do twoich wymagań",
+    "button": "Zobacz więcej"
+  },
+
+  "cards" :  [
+    {
+      "title": "Aplikacje Internetowe",
+      "content" : "content one",
+      "imageUrl" : "assets/www.png"
+    },
+    {
+      "title": "Strony WWW",
+      "content": "content two",
+      "imageUrl": "assets/aplikacje2.png"
+    },
+    {
+      "title": "Aplikacje Mobilne",
+      "content" : "content three",
+      "imageUrl" : "assets/mobilne.png"
+    }
+
+
+  ],
+  "cards2" :  [
+    {
+      "title": "Aplikacje Internetowe",
+      "content" : "content two",
+      "imageUrl" : "assets/webdesign.jpg"
+    },
+    {
+      "title": "Strony WWW",
+      "content": "content one",
+      "imageUrl": "assets/design.png"
+    },
+    {
+      "title": "Aplikacje Mobilne",
+      "content" : "content three",
+      "imageUrl" : "assets/mobilne.png"
+    }
+
+  ]
+}
+

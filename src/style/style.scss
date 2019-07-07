@@ -1,0 +1,62 @@
+
+.rl-default {
+  @import "../../node_modules/uikit/src/scss/variables";
+  @import "../../node_modules/uikit/src/scss/mixins-theme.scss";
+  @import "../../node_modules/uikit/src/scss/uikit-theme";
+}
+
+.rl-dark  {
+  background-color: #333;
+  color: #e2e2e2 ;
+
+  $global-color: #ddd ;
+  $global-emphasis-color: #eee ;
+
+  $global-muted-background: #222 ;
+  $global-background: #111 ;
+
+  $global-inverse-color: #eee ;
+  $global-primary-background: #BA68C8 ;
+  $global-danger-background: rgba(196, 40, 41, 0.99);
+  $global-secondary-background: rgba(135, 14, 79, 0.99) ;
+
+
+  @import "../../node_modules/uikit/src/scss/variables";
+  @import "../../node_modules/uikit/src/scss/mixins-theme.scss";
+  @import "../../node_modules/uikit/src/scss/uikit-theme";
+}
+
+.rl-light  {
+  background-color: #eeecee;
+  color: rgba(0, 0, 0, 0.86);
+
+  $global-color: #222 ;
+  $global-emphasis-color: #101 ;
+
+  $global-muted-background: #fff ;
+  $global-background: #ddd ;
+
+  $global-inverse-color: #FFF ;
+  $global-primary-background: rgba(162, 0, 162, 1) ;
+  $global-secondary-background: rgba(86, 0, 39, 1) ;
+  $global-danger-background: rgba(196, 40, 41, 1);
+
+
+  @import "../../node_modules/uikit/src/scss/variables";
+  @import "../../node_modules/uikit/src/scss/mixins-theme.scss";
+  @import "../../node_modules/uikit/src/scss/uikit-theme";
+}
+
+.rl-default, .rl-light, .rl-dark {
+  .uk-container{
+    font-size: 16px;
+    line-height: 1.75em;
+    font-weight: lighter ;
+
+  }
+}
+
+@import "./myStyle.scss";
+@import "./template.sass";
+
+
