@@ -24,6 +24,10 @@
     .content
         /*border: 1px solid red*/
         min-height: calc(100vh - 305px)
+        @media screen and (max-width: 960px)
+            /*border: 5px solid red*/
+            min-height: calc(100vh - 245px)
+
 </style>
 
 <main>
