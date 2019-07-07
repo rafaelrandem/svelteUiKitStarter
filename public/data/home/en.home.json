@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "title": "Designing websites and internet applications",
+    "content": "Hello, I offer a wide range of services, from simple business card sites, corporate websites to individual solutions tailored to your requirements",
+    "button": "See more"
+  },
+
+  "cards" :  [
+    {
+      "title": "Internet applications",
+      "content" : "content one",
+      "imageUrl" : "assets/www.png"
+    },
+    {
+      "title": "Www pages",
+      "content": "content two",
+      "imageUrl": "assets/aplikacje2.png"
+    },
+    {
+      "title": "Mobile applications",
+      "content" : "content three",
+      "imageUrl" : "assets/mobilne.png"
+    }
+
+
+  ],
+  "cards2" :  [
+    {
+      "title": "Internet applications",
+      "content" : "content two",
+      "imageUrl" : "assets/webdesign.jpg"
+    },
+    {
+      "title": "Www pages",
+      "content": "content one",
+      "imageUrl": "assets/design.png"
+    },
+    {
+      "title": "Mobile applications",
+      "content" : "content three",
+      "imageUrl" : "assets/mobilne.png"
+    }
+
+  ]
+}
+

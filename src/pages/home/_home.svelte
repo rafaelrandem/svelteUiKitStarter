@@ -12,7 +12,7 @@
     let cardsVertDataJson ;
 
     function getData() {
-        fetch('./data/home/pl.home.json')
+        fetch('./data/home/'+ $Lang +'.home.json')
                 .then(res=>res.json())
                 .then(json=>{
                     headerDataJson = json.header ;

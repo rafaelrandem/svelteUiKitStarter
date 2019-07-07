@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "title": "Conception de sites Web et d'applications Internet",
+    "content": "Bonjour, je propose une large gamme de services, allant de simples sites de cartes de visite, sites Web d’entreprise à des solutions individuelles adaptées à vos besoins",
+    "button": "Voir plus"
+  },
+
+  "cards" :  [
+    {
+      "title": "Applications Internet",
+      "content" : "content one",
+      "imageUrl" : "assets/www.png"
+    },
+    {
+      "title": "Sites Web WWW",
+      "content": "content two",
+      "imageUrl": "assets/aplikacje2.png"
+    },
+    {
+      "title": "Applications mobiles",
+      "content" : "content three",
+      "imageUrl" : "assets/mobilne.png"
+    }
+
+
+  ],
+  "cards2" :  [
+    {
+      "title": "Applications Internet",
+      "content" : "content two",
+      "imageUrl" : "assets/webdesign.jpg"
+    },
+    {
+      "title": "Sites Web WWW",
+      "content": "content one",
+      "imageUrl": "assets/design.png"
+    },
+    {
+      "title": "Applications mobiles",
+      "content" : "content three",
+      "imageUrl" : "assets/mobilne.png"
+    }
+
+  ]
+}
+
